@@ -20,4 +20,9 @@ export class ProfileService {
   .map(res => res.json());
   }
 
+  getProfileRepos(){
+    return this.http.get("https://api.github.com/users/" + this.username + "/repos")
+  .map(res => res.json());
+  }
+
 }
