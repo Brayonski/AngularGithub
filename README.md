@@ -1,27 +1,56 @@
-# GithubSearch
+#Github-search
+-----------------------------------------------------------------------------
+                              __INSTALLATION__
+-----------------------------------------------------------------------------
+To preview this app follow this link to the live & deployed website:
+ https://brayonski.github.io/AngularGithub/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+ Otherwise to clone, copy this link to your command terminal:
+ https://brayonski.github.io/AngularGithub/
 
-## Development server
+# Brief..
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project was made by Brian Mutai and submitted on May 2 2018
 
-## Code scaffolding
+This project was developed in Angular 5 as part of the IP for CORE.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## SUMMARY
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+__These are the contents of the README:__
 
-## Running unit tests
+1. Introduction to angular
+2. The layout of the web-app
+3. The problems
+4. The solutions
+5. This I did not manage
+6. Sources & credits
+----------------------------------------------------------------------------
+## Introduction to angular
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+__Angular__ can be a challenge to get grips of, mostly because of the combination of __hard syntax__, __nested elements__ and the __large number of files__ you work with.
 
-## Running end-to-end tests
+The purpose of this week's content at Moringa was to introduce us to the world of __framework environments__.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Angular is essentially a framework that allows developers to manipulate CSS, HTML & jS smoothly and efficiently.
 
-## Further help
+-----------------------------------------------------------------------------
+## The layout of the web-app
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+My web-app, called __Quote-Bender__ was developed using Angular.
+It contains three components:
+1. *profile component * -
+
+-----------------------------------------------------------------------------
+### profile components
+Contains the main data (parent). It holds the main visual structure of the website in it's HTML & CSS.
+
+-----------------------------------------------------------------------------
+
+## credits
+
+This app was made possible by the Moringa community and resources as well as:
+
+__git-hub__
+__Angular website__
+__youtube__
